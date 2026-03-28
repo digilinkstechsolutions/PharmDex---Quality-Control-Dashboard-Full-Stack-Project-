@@ -12,16 +12,16 @@ Modern pharmacy management system built for efficient medicine handling, billing
 
 # 🛫 Project Badges
 
-![HTML5](https://img.shields.io/badge/frontend-html5-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/style-css3-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/logic-javascript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/backend-python-blue?logo=python)
-![FastAPI](https://img.shields.io/badge/api-fastapi-teal?logo=fastapi)
-![Flask](https://img.shields.io/badge/backend-flask-black?logo=flask)
-![SQLite](https://img.shields.io/badge/database-sqlite-blue?logo=sqlite)
-![Netlify](https://img.shields.io/badge/deployment-netlify-teal?logo=netlify)
-![Pharmacy](https://img.shields.io/badge/domain-pharmacy-green?logo=medic)
-![Management](https://img.shields.io/badge/system-CRUD-blue)
+![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Backend-Python-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-teal?logo=fastapi)
+![Flask](https://img.shields.io/badge/Backend-Flask-black?logo=flask)
+![SQLite](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite)
+![Netlify](https://img.shields.io/badge/Deployment-Netlify-teal?logo=netlify)
+![Pharmacy](https://img.shields.io/badge/Domain-Pharmacy-green?logo=medic)
+![Management](https://img.shields.io/badge/System-CRUD-blue)
 
 ---
 
