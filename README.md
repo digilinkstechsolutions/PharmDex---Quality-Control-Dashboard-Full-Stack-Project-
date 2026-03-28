@@ -21,7 +21,7 @@ Modern pharmacy management system built for efficient medicine handling, billing
 ![SQLite](https://img.shields.io/badge/database-sqlite-blue?logo=sqlite)
 ![Netlify](https://img.shields.io/badge/deployment-netlify-teal?logo=netlify)
 ![Pharmacy](https://img.shields.io/badge/domain-pharmacy-green?logo=medic)
-![Management](https://img.shields.io/badge/system-management-blue)
+![Management](https://img.shields.io/badge/system-CRUD-blue)
 
 ---
 
