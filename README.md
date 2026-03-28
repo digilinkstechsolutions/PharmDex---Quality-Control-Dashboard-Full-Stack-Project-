@@ -124,16 +124,6 @@ Real-time UI updates
 
 ---
 
-# 📁 Project Structure
-
-```bash
-
-
-```
-
-
----
-
 # ⚙️ Core Logic
 
 - Medicine stock stored using JavaScript objects  
