@@ -120,20 +120,22 @@ The project focuses on **clean UI**, **fast performance**, and **real-time updat
 
 Frontend (HTML/CSS/JS)  
 ↓  
-Client-side logic handling  
+Flask (Python Backend API)  
 ↓  
-In-memory data storage (arrays/objects)  
+Business Logic & Request Handling  
 ↓  
-Real-time UI updates  
+SQLite Database (Persistent Storage)  
+↓  
+Dynamic responses sent back to UI    
 
 ---
 
 # ⚙️ Core Logic
 
-- Medicine stock stored using JavaScript objects  
-- Billing total = sum of selected medicine prices  
-- Stock updates dynamically after each purchase  
-- UI updates instantly without reload  
+- Medicine data stored persistently in SQLite database  
+- Billing calculations handled securely using Flask (Python backend)  
+- Stock automatically updates after each transaction  
+- Frontend dynamically reflects changes via API responses (no manual refresh needed)    
 
 All operations are handled **client-side for speed and simplicity**.
 
@@ -144,8 +146,8 @@ All operations are handled **client-side for speed and simplicity**.
 - ✅ Inventory management system  
 - ✅ Billing functionality  
 - ✅ Responsive UI  
-- ⛔ Backend integration (Node/Spring)  
-- ⛔ Database support  
+- ✅ Backend integration (FastAPI)  
+- ✅ Database support  
 - ⛔ Authentication system  
 - ⛔ Barcode scanning  
 
@@ -159,22 +161,27 @@ All operations are handled **client-side for speed and simplicity**.
 
 ## 🗒️ Note
 
-This project is **available for purchase** and ready for deployment or customization.
+This project is available for purchase and ready to be deployed or customized to your needs. A live demo is provided so you can explore its full functionality and performance before making a decision.
 
-A live demo is provided so you can explore its functionality before making a decision.
+Looking for modifications or additional features? We also offer custom development and improvements tailored to your requirements.
 
-Need custom features or upgrades? We offer tailored solutions based on your requirements.
+💬 For pricing, full source code access, or negotiations:
 
-💬 For pricing, full source code, or collaboration:
+- Email: digilinkstechsolutions@gmail.com
 
-- Email: digilinkstechsolutions@gmail.com  
-- Instagram: [**digilinks_tech_solutions**](https://www.instagram.com/digilinks_tech_solutions)
+- Instagram: [**digilinks_tech_solutions**](https://www.instagram.com/digilinks_tech_solutions?igsh=OGs1ZGZiMHkxdHZz)
 
-🌐 **Explore more:**
 
-- GitHub: [**@digilinkstechsolutions**](https://github.com/digilinkstechsolutions)  
-- Website: https://digilinks-professional-services.netlify.app  
+
+🌐 **Explore more projects:**
+
+- GitHub: [**@digilinkstechsolutions**](https://github.com/digilinkstechsolutions)
+  
+- Website: [**Digilinks Professional Services**](https://digilinks-professional-services.netlify.app)
+
+
+
+Serious inquiries only. Let’s build something great together.
 
 ---
-
 🚀 Serious inquiries only. Let’s build something impactful together.  
