@@ -87,14 +87,24 @@ The project focuses on **clean UI**, **fast performance**, and **real-time updat
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,netlify" />
+<img src="https://skillicons.dev/icons?i=html,css,js,py,flask,fastapi,sqlite,netlify" />
 </p>
 
 ### Frontend
 
 - HTML5  
 - CSS3  
-- Vanilla JavaScript  
+- Vanilla JavaScript
+
+### Backend
+
+- Python 3.13 
+- Flask 
+- FastAPI
+
+### Database
+
+- SQLite   
 
 ### Deployment
 
